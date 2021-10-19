@@ -1,0 +1,8 @@
+﻿название колонки;формат
+наименование;string
+артикул;string
+длина/высота;integer
+ширина;integer
+ссылка;string
+место;string
+цена;integer
